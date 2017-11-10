@@ -1,6 +1,6 @@
 # New-York-Times-Search
 
-This repository contains a user friendly webpage that searches for news articles in The New York Times. User can type any keyword and specify year range. Result are displayed on a table located below the search window.
+This repository contains a user friendly webpage that searches for news articles using The New York Times' API. User can type any keyword and specify year range. Result are displayed on a table located below the search window.
 
 * [Direct link](https://muri03.github.io/New-York-Times-Search/)
 
